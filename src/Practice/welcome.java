@@ -7,6 +7,7 @@ public class welcome {
 		
 		System.out.println("Welcome to the codelab training session");
 		System.out.println("We are learning DevOps Concepts");
+		System.out.println(50*49);
 
 	}
 
