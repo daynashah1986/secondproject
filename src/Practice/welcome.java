@@ -6,6 +6,7 @@ public class welcome {
 		// This is my second project for testing CI concept
 		
 		System.out.println("Welcome to the codelab training session");
+		System.out.println("We are learning DevOps Concepts");
 
 	}
 
